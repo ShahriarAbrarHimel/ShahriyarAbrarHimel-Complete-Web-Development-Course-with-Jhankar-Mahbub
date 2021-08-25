@@ -1,0 +1,4 @@
+vs code 
+alt + z ->>toggleWordWrap
+alt + / ->>toggle line comment
+sift+ alt + A ->>toggle block comment
